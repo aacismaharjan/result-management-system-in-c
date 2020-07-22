@@ -1,0 +1,33 @@
+---------------------------------------------------------------------
+[RESULT MANAGEMENT SYSTEM]
+Version: 0.1.1
+Last Modified: 26th Jan, 2020
+Last Modified: 2th Feb, 2020
+Last Modified: 20th May, 2020
+Last Modified: 21th May, 2020
+Last Modified: 22th May, 2020
+---------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+INTRODUCTION:
+------------------------------------------------------------------------------------------------------
+
+This software is developed by Aashish Maharjan using C Program.
+He used CodeBlock editor instead of TurboC+.
+This software deals with the data management during the result distribution of Grade XII Management.
+It took many months for him to build this software.
+He uses almost every syntax that we are taught by our Mannor Shakya sir in our Gyanodaya College.
+
+------------------------------------------------------------------------------------------------------
+CREDITS:
+------------------------------------------------------------------------------------------------------
+
+Aashish Maharjan    [DEVELOPER]
+Amit Malla     [Helper]
+Pradip Nepal     [Helper]
+Manor Sakya     [Teacher]
+StackOverflow   [Reference]
+
+------------------------------------------------------------------------------------------------------
+Copyright 2020, All Rights Reserved. Designed and Developed By Aashish Maharjan (IG: @aacismaharjan)
+------------------------------------------------------------------------------------------------------
