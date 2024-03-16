@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1595402485 source:e:\c\result management system - version 2.0\add.c
+	"RMS_func.h"
+
+1595397118 e:\c\result management system - version 2.0\rms_func.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+	"common.h"
+
+1595396688 e:\c\result management system - version 2.0\common.h
+
+1595399603 source:e:\c\result management system - version 2.0\basics.c
+	"RMS_func.h"
+
+1595325927 source:e:\c\result management system - version 2.0\delete.c
+	"RMS_func.h"
+	"common.h"
+
+1595401590 source:e:\c\result management system - version 2.0\filter.c
+	"RMS_func.h"
+
+1595402470 source:e:\c\result management system - version 2.0\gpadetails.c
+	"RMS_func.h"
+
+1595402467 source:e:\c\result management system - version 2.0\info.c
+	"RMS_func.h"
+
+1595399648 source:e:\c\result management system - version 2.0\ledger.c
+	"RMS_func.h"
+
+1595396910 source:e:\c\result management system - version 2.0\main.c
+	"RMS_func.h"
+
+1595396858 source:e:\c\result management system - version 2.0\menu.c
+	"RMS_func.h"
+
+1595402458 source:e:\c\result management system - version 2.0\search.c
+	"RMS_func.h"
+
+1595397581 source:e:\c\result management system - version 2.0\sheet.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\add.c
+	"RMS_func.h"
+
+1710570845 c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\rms_func.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+	"common.h"
+
+1710570845 c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\common.h
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\basics.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\delete.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\filter.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\gpadetails.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\info.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\ledger.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\main.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\menu.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\search.c
+	"RMS_func.h"
+
+1710570845 source:c:\users\aashi\documents\projects\result-management-system-in-c\result management system - version 2.0\sheet.c
+	"RMS_func.h"
+
